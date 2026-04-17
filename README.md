@@ -1,0 +1,1 @@
+Experiencia inmersiva en la que el usuario sea parte del proceso de fabricación de instrumentos de cuerda; mientras un maestro luthier narra datos curiosos, anécdotas y guía en el proceso de creación desde cero.
