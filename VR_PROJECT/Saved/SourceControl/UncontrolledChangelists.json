@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_001.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_002.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_003.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_005.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_006.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Material_004.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_004.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_023.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_013.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_017.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_027.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_031.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_001.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_025.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_035.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_040.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_012.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Plane_001.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Plane_002.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_002.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_003.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_010.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_016.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_024.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_034.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_038.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube_014.uasset",
+				"D:/ARCHIVOS D/Unreal Projects/VR_PROJECT/Content/Escenario/Cube.uasset",
+				"C:/Users/Julian/Documents/Unreal Projects/VR_PROJECT/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
